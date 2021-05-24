@@ -1,0 +1,17 @@
+.favList {
+}
+.favItem {
+  display: flex;
+  flex: 1;
+  border-bottom: 1px solid #dddddd;
+  align-items: flex-start;
+  padding: 15px 0;
+}
+.removeBtn {
+  visibility: hidden;
+  opacity: 0;
+}
+.favItem:hover .removeBtn {
+  visibility: visible;
+  opacity: 1;
+}

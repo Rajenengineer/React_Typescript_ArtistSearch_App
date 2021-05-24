@@ -1,0 +1,14 @@
+.itemList {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  display: flex;
+  border-bottom: 1px solid #dddddd;
+  align-items: flex-start;
+  padding: 15px 0;
+}
+.emptyMessage {
+  margin: 20px 0;
+  color: #888;
+}

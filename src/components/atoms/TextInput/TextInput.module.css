@@ -1,0 +1,16 @@
+.root {
+  flex: 1;
+}
+.input {
+  width: 100%;
+  border: 1px solid #898989;
+  height: 50px;
+  font-size: 20px;
+  padding: 0 20px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  outline: none;
+}
+.input:focus {
+  border: 1px solid #000000;
+}

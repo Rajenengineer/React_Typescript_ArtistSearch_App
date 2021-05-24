@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+  margin-bottom: 20px;
+}
+.button {
+  border: 0 none;
+  background: #fb0;
+  border-radius: 4px;
+  font-weight: bold;
+  color: #222;
+  text-transform: uppercase;
+  width: 120px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #ffc900;
+}

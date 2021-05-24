@@ -1,0 +1,6 @@
+.searchListItem {
+  display: flex;
+  border-bottom: 1px solid #dddddd;
+  align-items: flex-start;
+  padding: 15px 0;
+}
